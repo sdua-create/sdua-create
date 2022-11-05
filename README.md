@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sdua-create
-- 👀 I’m interested in Data Analytics,Product Management,
+- 👀 I’m interested in Data Analytics,Product Management
 ## Skills
 + 💻 React,HTML,CSS,JS
 + 💻 scikit-learn,pandas
